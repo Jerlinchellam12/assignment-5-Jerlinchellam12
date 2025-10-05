@@ -9,7 +9,7 @@ Documentation
 # Visualizing Data Veracity Challenges in Multi-Label Classification
 
 ## Project Overview
-This project explores **data veracity challenges** in multi-label classification using the Yeast gene expression dataset. Each data point represents an experiment with 86 gene expression features, and the target is a set of 14 functional categories (labels). Despite standardization, the dataset exhibits **noisy labels, outliers, and hard-to-learn samples**, which can hinder classification performance.
+This project explores **data veracity challenges** in multi-label classification using the Yeast gene expression dataset. Each data point represents an experiment with 103 gene expression features, and the target is a set of 14 functional categories (labels). Despite standardization, the dataset exhibits **noisy labels, outliers, and hard-to-learn samples**, which can hinder classification performance.
 
 The main goal of this assignment is to **visually inspect the dataset** using **non-linear dimensionality reduction techniques** and understand how these data quality issues manifest in high-dimensional biological data.
 
